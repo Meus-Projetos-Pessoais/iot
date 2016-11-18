@@ -17,3 +17,9 @@ https://www.infoq.com/br/presentations/o-que-o-pessoal-do-marketing-nao-conta-so
 Geolocalização.
 
 http://www.gaudium.com.br/artigos/como-implementar-backend-para-app-mobile-com-geolocalizacao/
+
+
+
+Case Interessante.
+
+https://www.infoq.com/br/presentations/grafos-com-neo4j-de-hidreletricas-a-eletronicos
